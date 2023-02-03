@@ -1,0 +1,26 @@
+1- Abrir o cmd na pasta do aplicativo e executar o comando 
+pod init
+
+2- Abrir o pod.file e adicionar os comandos
+platform :ios, '16.0'
+
+target 'RoomPlanExampleApp' do
+
+use_frameworks!
+
+use_modular_headers!
+pod 'GoogleMLKit/ImageLabeling', '3.2.0'
+pod 'GoogleMLKit/ImageLabelingCustom', '3.2.0'
+pod 'GoogleMLKit/ObjectDetection', '3.2.0'
+pod 'GoogleMLKit/ObjectDetectionCustom', '3.2.0'
+
+end
+
+3- Fechar e salvar o pod.file alterado e executar o comando no cmd 
+pod install
+
+4- Abrir XCode, configurações do projeto -> Build Resources -> excluir os Output Files e Input Files
+
+5- Configurar o deploy no smartphone
+
+6- Executar deploy
