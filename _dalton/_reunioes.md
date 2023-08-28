@@ -179,3 +179,7 @@ __ Andreza
 Concorda com o Aurélio  
 Colocar o diagrama de classe para apêndice e em modo paisagem.  
 Qual o algoritmo usado no ML Kit.  
+
+## 2023-08-28
+
+[2023-08-28_EMail_Danielia_SeeingAI.pdf](2023-08-28_EMail_Danielia_SeeingAI.pdf "2023-08-28_EMail_Danielia_SeeingAI.pdf")  
